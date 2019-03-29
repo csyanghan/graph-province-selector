@@ -1,17 +1,20 @@
 <template>
   <div id="app">
     <h2>Yitu Prework</h2>
-    <ImageEditor></ImageEditor>
+    <!-- <ImageEditor></ImageEditor> -->
+    <Cascade></Cascade>
   </div>
 </template>
 
 <script>
 import ImageEditor from './components/ImageEditor.vue';
+import Cascade from './components/Cascade.vue';
 
 export default {
   name: 'app',
   components: {
-    ImageEditor
+    ImageEditor,
+    Cascade
   }
 }
 </script>
@@ -27,6 +30,5 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
