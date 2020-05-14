@@ -1,4 +1,16 @@
-# yitu
+# 省市选择器组件 + 在线画板
+
+## Preview
+
+Online: https://ctum.github.io/graph-province-selector/
+
+* ### 在线画板
+
+![](https://github.com/Ctum/graph-province-selector/blob/master/preview/online-canvas.png)
+
+* ### 省市选择器组件
+
+![](https://github.com/Ctum/graph-province-selector/blob/master/preview/province-select.png)
 
 ## Project setup
 ```
